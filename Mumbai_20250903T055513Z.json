@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 72.8479,
+    "lat": 19.0144
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 27.39,
+    "feels_like": 30.63,
+    "temp_min": 27.39,
+    "temp_max": 27.39,
+    "pressure": 1007,
+    "humidity": 80,
+    "sea_level": 1007,
+    "grnd_level": 1006
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 7.39,
+    "deg": 282,
+    "gust": 8.95
+  },
+  "clouds": {
+    "all": 92
+  },
+  "dt": 1756878283,
+  "sys": {
+    "country": "IN",
+    "sunrise": 1756860852,
+    "sunset": 1756905736
+  },
+  "timezone": 19800,
+  "id": 1275339,
+  "name": "Mumbai",
+  "cod": 200
+}
